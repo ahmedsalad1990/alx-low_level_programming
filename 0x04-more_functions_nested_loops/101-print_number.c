@@ -45,3 +45,4 @@ void print_number(int n)
 		ct--;
 	}
 	_putchar(ld);
+}
