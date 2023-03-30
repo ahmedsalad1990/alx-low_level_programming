@@ -3,9 +3,8 @@
 #include <time.h>
 /**
  * main - generates keygen.
- * Return: return 0 always.
+ * Return: 0 Always.
  */
-
 int main(void)
 {
 	int r = 0, c = 0;
